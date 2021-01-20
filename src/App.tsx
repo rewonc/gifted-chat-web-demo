@@ -8,7 +8,7 @@ const App: React.FC = () => {
     {
       _id: 123,
       text:
-        'This is a test of Gifted Chat for the WEB 🎉 \n https://github.com/FaridSafi/react-native-gifted-chat ',
+        'Test 2 test 2 🎉 \n https://github.com/FaridSafi/react-native-gifted-chat ',
       user: {
         _id: 2,
         name: 'you',
